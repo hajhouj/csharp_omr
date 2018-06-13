@@ -1,0 +1,17 @@
+E:\ProjetsCsharp\ormframework\bin\Debug\opencv_core220.dll
+E:\ProjetsCsharp\ormframework\bin\Debug\opencv_imgproc220.dll
+E:\ProjetsCsharp\ormframework\bin\Debug\My EMGU Program.exe
+E:\ProjetsCsharp\ormframework\bin\Debug\My EMGU Program.pdb
+E:\ProjetsCsharp\ormframework\bin\Debug\ZedGraph.dll
+E:\ProjetsCsharp\ormframework\bin\Debug\Emgu.CV.xml
+E:\ProjetsCsharp\ormframework\bin\Debug\Emgu.CV.UI.xml
+E:\ProjetsCsharp\ormframework\bin\Debug\Emgu.Util.xml
+E:\ProjetsCsharp\ormframework\bin\Debug\ZedGraph.xml
+E:\ProjetsCsharp\ormframework\bin\Debug\zh-CN\ZedGraph.resources.dll
+E:\ProjetsCsharp\ormframework\obj\x86\Debug\omrProg.csprojResolveAssemblyReference.cache
+E:\ProjetsCsharp\ormframework\obj\x86\Debug\My_EMGU_Program.Form1.resources
+E:\ProjetsCsharp\ormframework\obj\x86\Debug\My_EMGU_Program.FormCropImage.resources
+E:\ProjetsCsharp\ormframework\obj\x86\Debug\My_EMGU_Program.Properties.Resources.resources
+E:\ProjetsCsharp\ormframework\obj\x86\Debug\omrProg.csproj.GenerateResource.Cache
+E:\ProjetsCsharp\ormframework\obj\x86\Debug\My EMGU Program.exe
+E:\ProjetsCsharp\ormframework\obj\x86\Debug\My EMGU Program.pdb
